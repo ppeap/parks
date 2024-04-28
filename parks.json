@@ -1,0 +1,94 @@
+[
+  {
+    "Name": "W.B Harrison Park",
+    "Location": "1300 S Webb Rd, Wichita, KS",
+    "Details": "Hours: Sunday-Saturday: 8AM-10PM, Has dog park,picnic tables and basketball court.",
+    "Latitude": 37.4006,
+    "Longitude": 97.1309
+  },
+  {
+    "Name": "College Hill Park",
+    "Location": "304 Circle Dr, Wichita, KS 67218",
+    "Details": "Hours: Sunday-Saturday: 5AM-12AM, Has a tennis court, has a playground with swings,picnic tables and basketball court.",
+    "Latitude": 37.4057,
+    "Longitude": 97.1728
+  }, 
+  {
+    "Name": "Oak Park",
+    "Location": "720 Nims, Wichita, KS 67203",
+    "Details": "Hours: Sunday-Saturday: 10AM-8PM, has miniature zoo, playground, splash pond, walking paths, picnic areas.",
+    "Latitude": 37.4220,
+    "Longitude": 97.2116
+  },
+  {
+    "Name": "Central Riverside Park",
+    "Location": "304 Circle Dr, Wichita, KS 67218",
+    "Details": "Hours: Sunday-Saturday: 5AM-12AM, Has a tennis court, has a playground with swings,picnic tables and basketball court.",
+    "Latitude": 37.4149,
+    "Longitude": 97.2047
+  },
+  {
+    "Name": "Sedgwick County Park",
+    "Location": "6501 W 21st St, Wichita, KS 67205",
+    "Details": "Hours: Sunday-Saturday: 6AM-10PM, outdoor sport and fitness, fishing on 4 lakes, picnic tables, basketball courts.",
+    "Latitude": 37.4233,
+    "Longitude": 97.2506
+  },
+  {
+    "Name": "Edgemoor Park",
+    "Location": "5815 E 9th St N, Wichita, KS 67208",
+    "Details": "Hours: Sunday-Saturday: 6AM-12AM, Has picnic tables, basketball courts, playground.",
+    "Latitude": 37.4201,
+    "Longitude": 97.1607
+  },
+  {
+    "Name": "Linwood Park",
+    "Location": "1901 S Kansas St, Wichita, KS 67211",
+    "Details": "Hours: Sunday-Saturday: 6AM-12AM, Has picnic tables, basketball courts, playground.",
+    "Latitude": 37.3939,
+    "Longitude": 97.1852
+  },
+  {
+    "Name": "Lincoln Park",
+    "Location": "1323 S Topeka St, Wichita, KS 67211",
+    "Details": "Hours: Sunday-Saturday: 24HR, Has picnic tables, basketball courts, playground, dogs allowed.",
+    "Latitude": 37.4008,
+    "Longitude": 97.2005
+  },
+  {
+    "Name": "Fairmount Park",
+    "Location": "1647 N Yale Blvd, Wichita, KS 67218",
+    "Details": "Hours: Sunday-Saturday: 24HR, Has picnic tables, basketball courts, playgrounds, splash pad.",
+    "Latitude": 37.4245,
+    "Longitude": 97.1729
+  },
+  {
+    "Name": "Delano Park",
+    "Location": "N, 101 McLean Blvd, Wichita, KS 67203",
+    "Details": "Hours: Sunday-Saturday: 24HR, Has walking paths.",
+    "Latitude": 37.4107,
+    "Longitude": 97.2040
+  },
+  {
+    "Name": "North Riverside Park",
+    "Location": "1029 Bitting St, Wichita, KS 67203",
+    "Details": "Hours: Monday-Saturday: 24HR, Sunday: CLOSED, Has lily pond, playground, area for public events.",
+    "Latitude": 37.4212,
+    "Longitude": 97.2113
+  },
+  {
+    "Name": "Osage Park",
+    "Location": "2121 W 31st St S, Wichita, KS 67217",
+    "Details": "Hours: Sunday-Saturday: 9AM-9PM, Has a multi-use fields, picnic areas, playground, and splash pad.",
+    "Latitude": 37.3808,
+    "Longitude": 97.2159
+  },
+  {
+    "Name": "Schweiter Park",
+    "Location": "Wichita, KS 67218",
+    "Details": "Hours: Sunday-Saturday: 24HR, Has exercise stations, playgrounds, basketball court, and fields to play sports.",
+    "Latitude": 37.4015,
+    "Longitude": 97.1800
+  }
+]
+
